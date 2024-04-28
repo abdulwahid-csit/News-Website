@@ -2,11 +2,11 @@
 Aman News Website
 This is my fyp project so i have provided:
 ---
-->Front end code
-->Back end code
-->Database code
-->Proposal
-->Thesis
+1) ->Front end code
+2) ->Back end code
+3) ->Database code
+4) ->Proposal
+5) ->Thesis
 
 Tools Used
 -
