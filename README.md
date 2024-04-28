@@ -24,4 +24,4 @@ Hello world to (http://localhost/Aman-news/admin/), enter the username "wahid" a
 
 Now you can Add, Update or Delete post or user.
 
-To see the posts on the front end hello world to "localhost/Aman-news".
+To see the posts on the front end hello world to "http://localhost/Aman-news".
