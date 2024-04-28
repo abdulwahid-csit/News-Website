@@ -12,7 +12,7 @@ Tools Used
 -
 
 1) Download and install xamp server from https://www.apachefriends.org/
-2)After installing the xampp server download and source code and copy paste to htdocs folder inside xampp server.
+2)After installing the xampp server download the source code and copy paste to htdocs folder inside xampp server.
 3) Open the xampp controle pannel and run the Appache server and mysql.
 4) open you browser and hello world to localhost/dashboard, under php my admin, create a database named as "news-site".
 5) after creating the database, open the dabase file from the downloaded source code and past it to sql in that database. run the query it will create a database with raw data. inside the "user" table insert first use to login the site. insert this credentials. First Name: "web" Lat name: "user", username: "wahid", password: "2b1ddf586a8155d1b59c26c087128380
